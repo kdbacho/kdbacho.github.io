@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Security Developer"
+duration: "May 2017 - Aug 2017"
+image: /images/bmo.png
+categories: work
+author: "Jeevan Devaranjan"
+location: "Toronto, ON"
+company: "Bank of Montreal"
+---
+Worked on developing software for logging and handling security events and exceptions.

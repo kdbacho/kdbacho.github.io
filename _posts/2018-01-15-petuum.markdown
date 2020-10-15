@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Software Engineering Intern"
+duration: "May 2018 - Aug 2019"
+image: /images/petuum.png
+categories: work
+author: "Jeevan Devaranjan"
+location: "Pittsburgh, PA"
+company: "Petuum"
+---
+Added support for probabilistic models on the ML workflow pipeline using GraphQL. Implemented probabilistic ML models such as Deep Markov Models and Bayesian CNNs in the Tensorflow and Torch Libraries using Edward, TF Probability and Pyro.

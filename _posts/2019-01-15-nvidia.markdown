@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Deep Learning Research Intern"
+duration: "Jan 2019 - March 2020"
+image: /images/nvidia.png
+categories: work
+author: "Jeevan Devaranjan"
+location: "Toronto, ON"
+company: "Nvidia"
+---
+Generative Reinforcement Learning and Semi Supervised Synthetic Content Generation research with Professor Sanja Fidler and Amlan Kar.

@@ -8,3 +8,4 @@ author: "Jeevan Devaranjan"
 location: "Toronto, ON"
 company: "Layer 6"
 ---
+Research on unsupervised 3D pose estimation with Satya Gorti and Maksims Volkovs
