@@ -5,9 +5,7 @@ date:   2020-10-15 22:21:59 +00:00
 image: /images/metasim.png
 categories: research
 author: "Jeevan Devaranjan"
-authors: "<strong>Jeevan Devaranjan^2</strong>"
+authors: "<strong>Jeevan Devaranjan</strong>, Amlan Kar, Sanja Fidler"
 venue: "ECCV 2020"
 arxiv: https://arxiv.org/abs/2008.09092
-code: https://github.com/leonidk/venue_scores
 ---
-A bibliometric/scientometric project. Our main two results are a method of assigning value to all venues in computer science and a method to organize them into distinct subfields, all without using citation data. The resulting venue scores can be used to rank universities' by scholarly output, and produce a responsive author-level metric.
