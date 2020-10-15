@@ -8,4 +8,5 @@ author: "Jeevan Devaranjan"
 authors: "<strong>Jeevan Devaranjan</strong>, Amlan Kar, Sanja Fidler"
 venue: "ECCV 2020"
 arxiv: https://arxiv.org/abs/2008.09092
+project: https://nv-tlabs.github.io/meta-sim-structure/
 ---
