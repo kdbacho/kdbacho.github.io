@@ -2,7 +2,7 @@
 layout: post
 title:  "Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation"
 date:   2020-10-15 22:21:59 +00:00
-image: /images/metasim.png
+image: /images/metasim2.png
 categories: research
 author: "Jeevan Devaranjan"
 authors: "<strong>Jeevan Devaranjan</strong>, Amlan Kar, Sanja Fidler"
